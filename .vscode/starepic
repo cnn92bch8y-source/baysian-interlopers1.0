@@ -1,0 +1,10 @@
+stardata.txt=
+np.genfromtxt('stardata.txt', delimiter=',', dtype=None, encoding=None, unpack=True)
+shee data into 10 arrays for m,x,y,z,etc
+for i in range(Nstar)
+for j in range(i+1,Nstar)
+m1=all_m[i]
+m2=all_m[j]
+x1=all_x[i]
+
+to eval e=1/2mv**2 -Gm1m2/r
